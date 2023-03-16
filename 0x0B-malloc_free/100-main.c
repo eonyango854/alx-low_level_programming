@@ -19,4 +19,4 @@ return (1);
 printf("%s", s);
 free(s);
 return (0);
-}
+
